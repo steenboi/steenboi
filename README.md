@@ -10,12 +10,6 @@ Feel free to browse my repositories or get in touch!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
   <a href="mailto:acarranza529@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -23,20 +17,11 @@ Feel free to browse my repositories or get in touch!
 
 <h3 align="left">What I'm Currently Up To</h3>
 <ul>
-  <li>I’m currently learning <strong> Kubernetes and CI/CD pipelines</strong>.</li>
-  <li>I’m currently building a <strong> full-stack app with React and Quart]</strong>.</li>
-  <li>I’m looking to collaborate on <strong> open-source projects using JS/TS or Python</strong>.</li>
-  <li>Ask me about anything related to <strong> React, Node.js, or AWS deployment</strong>!</li>
+  <li>I’m currently learning <strong>Kubernetes and CI/CD pipelines</strong>.</li>
+  <li>I’m currently building a <strong>full-stack app with React and Quart</strong>.</li>
+  <li>I’m looking to collaborate on <strong>open-source projects using JS/TS, Java, or Python</strong>.</li>
+  <li>Ask me about anything related to <strong>React, Node.js, or AWS deployment</strong>!</li>
 </ul>
-
-<h3 align="left">My GitHub Stats</h3>
-<p align="center">
-    <a href="https://github.com/steenboi">
-    <img src="https://github-readme-stats.vercel.app/api?username=steenboi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Austin's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steenboi&layout=compact&theme=radical&hide_border=true" alt="Austin's Top Languages" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
