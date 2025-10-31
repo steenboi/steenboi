@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Austin Carranza</h1>
-<h3 align="center">A passionate full-stack developer based in Chapel Hill, NC.</h3>
+<h3 align="center">A full-stack developer based in Chapel Hill, NC.</h3>
 
 I'm a full-stack developer with a passion for building clean, efficient, and user-friendly web applications from the ground up. My expertise spans both front-end (like React, Angular, and Vue) and back-end (like Node.js, Python, and Java) development, allowing me to take an idea from concept to deployment. I'm experienced with cloud platforms like AWS and Azure, and I'm always eager to learn new technologies and take on challenging projects.
 
@@ -14,7 +14,7 @@ Feel free to browse my repositories or get in touch!
 * I’m currently learning **Kubernetes and CI/CD pipelines**.
 * I’m currently building a **full-stack app with React and Quart**.
 * I’m looking to collaborate on **open-source projects using JS/TS, Java, or Python**.
-* Ask me about anything related to **React, Node.js, or AWS deployment**!
+* Ask me about anything related to **React, Node.js, or Springboot**!
 
 ### Languages and Tools:
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
