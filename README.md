@@ -16,7 +16,7 @@ Feel free to browse my repositories or get in touch!
 * I’m looking to collaborate on **open-source projects using JS/TS, Java, or Python**.
 * Ask me about anything related to **React, Node.js, or Springboot**!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steenboi&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steenboi&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
