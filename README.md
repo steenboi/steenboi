@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,6 +56,6 @@
 
 ---
 
-### 💬 Ask Me About
+### Ask Me About
 Python · Java · C++ · QA & Test Automation · Linux · Docker · AWS · CI/CD
 
