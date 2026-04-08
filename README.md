@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Systems & DevOps</h3>
 
 <p align="center">
-  CS graduate with a background in software engineering and QA. Currently focused on Linux systems administration and DevOps — working toward RHCSA certification.
+  CS graduate with a background in software engineering and QA. Currently focused on Linux systems administration and DevOps — working toward RHCE certification.
 </p>
 
 <p align="center">
@@ -47,20 +47,12 @@
 
 ---
 
-### 📊 Top Languages
+### Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steenboi&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-### 🔧 Currently
-
-- 📋 Studying for **RHCSA** — focused on Linux systems administration
-- 📦 Learning **Kubernetes and CI/CD pipelines**
-- 🏗 Building a full-stack app with **React + Quart**
-- 🤝 Open to collaborating on open-source projects in **Python, Java, or JS/TS**
+- Studying for **RHCE** — focused on Linux Engineering
+- Learning **Kubernetes and CI/CD pipelines**
+- Building a full-stack app with **React + Quart**
+- Open to collaborating on open-source projects in **Python, Java, or JS/TS**
 
 ---
 
