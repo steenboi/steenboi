@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Austin Carranza</h1>
+<h1 align="center">Austin Carranza</h1>
 <h3 align="center">Software Engineer · Systems & DevOps</h3>
 
 <p align="center">
