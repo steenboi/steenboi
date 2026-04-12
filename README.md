@@ -51,7 +51,7 @@
 ### Currently
 
 - Studying for **RHCE** — focused on Linux Engineering
-- Learning **Kubernetes and CI/CD pipelines**
+- Learning **Ansible + Kubernetes**
 - Building a full-stack app with **React + Quart**
 - Open to collaborating on open-source projects in **Python, C++, Java, or JS/TS**
 
