@@ -1,5 +1,6 @@
 <h1 align="center">Austin Carranza</h1>
 <h3 align="center">Software Engineer · Systems & DevOps</h3>
+<h4 align="center">Chapel Hill, NC</h4>
 
 <p align="center">
   CS graduate with a background in software engineering and QA. Currently focused on Linux systems administration and DevOps — working toward RHCE certification.
