@@ -14,6 +14,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=steenboi&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### Tech Stack
 
 **Languages**
@@ -31,10 +37,10 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-**Cloud — AWS**
+**Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **QA & Testing**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -60,4 +66,3 @@
 
 ### Ask Me About
 Python · Java · C++ · QA & Test Automation · Linux · Docker · AWS · CI/CD
-
