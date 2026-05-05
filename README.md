@@ -3,7 +3,7 @@
 <h4 align="center">Chapel Hill, NC</h4>
 
 <p align="center">
-  CS graduate with a background in software engineering and QA. Currently focused on Linux systems administration and DevOps — working toward RHCE certification.
+  CS graduate with a background in software engineering and QA. Currently focused on Linux systems administration and DevOps.
 </p>
 
 <p align="center">
@@ -13,12 +13,11 @@
 </p>
 
 ---
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=steenboi&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+--- -->
 
 ### Tech Stack
 
